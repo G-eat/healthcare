@@ -50,6 +50,7 @@ Edit the `.env` file to match your local database credentials:
 
 ```plaintext
 DB_CONNECTION=sqlite
+DB_DATABASE=database/assignment.db
 ```
 
 ### 6. Run Database Migrations
